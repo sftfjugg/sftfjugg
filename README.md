@@ -8,5 +8,5 @@
 - 👯 I’m looking to collaborate on Finance, securities, edge computing
 - ⚡ Fun fact: srok, black 8, DOTA, king, sports, music...
 - Gitlab：http://gitlab.oopspy.com:7166
-- 公众号：linghu242
+- WeChat Subscription：linghu242
 <img src="https://github-profile-trophy.vercel.app/?username=sftfjugg&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
