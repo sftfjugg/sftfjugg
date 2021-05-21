@@ -4,8 +4,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sftfjugg&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 ### I'm Linghu
 - 🔭 I’m currently working on CICD(CI As Code; CD：IAAS As Code / PaaS As Code)、K8S、DevOps(go/vue)
-- 🌱 I’m currently learning go
-- 👯 I’m looking to collaborate on K8S
+- 🌱 I’m currently learning istio、ebpf
+- 👯 I’m looking to collaborate on Finance, securities, edge computing
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
