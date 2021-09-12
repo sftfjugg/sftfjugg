@@ -14,6 +14,7 @@ Content Me 📱
 - 👯 I’m looking to collaborate on Finance, edge computing
 - ⚡ Fun fact: srok, black 8, DOTA, king, sports, music...
 - WeChat Subscription：linghu242
+- Gitlab：http://gitlab.oopspy.com:7166/
 
 <hr>
 <a href="https://github.com/sftfjugg/github-readme-stats" title="Go to Source">
