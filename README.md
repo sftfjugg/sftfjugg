@@ -9,12 +9,11 @@ Content Me 📱
 **sftfjugg/sftfjugg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### I'm Linghu
-- 🔭 I’m currently working on CICD(CI As Code; CD：IAAS As Code And PaaS As Code)、K8S、DevOps(go/vue)
-- 🌱 I’m currently learning istio、bpf
-- 👯 I’m looking to collaborate on Finance, edge computing
-- ⚡ Fun fact: srok, black 8, DOTA, king, sports, music...
+- 🔭 I’m currently working on Cloud Native、BigData
+- 🌱 I’m currently learning Cilium
+- 👯 I’m looking to collaborate on Finance、Games、にじげん
+- ⚡ Fun fact: sports...
 - WeChat Subscription：linghu242
-- Gitlab：http://gitlab.oopspy.com
 
 <hr>
 <a href="https://github.com/sftfjugg/github-readme-stats" title="Go to Source">
