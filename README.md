@@ -9,7 +9,7 @@ Content Me 📱
 **sftfjugg/sftfjugg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### I'm Linghu
-- 🔭 I’m currently working on LINUX/Windows、Middleware、Database(MySQL & PostgreSQL)、Cloud Native、BigData
+- 🔭 I’m currently working on LINUX/Windows、Middlewares、Database(MySQL & PostgreSQL)、Cloud Native、BigData
 - 🌱 I’m currently learning Cilium
 - 👯 I’m looking to collaborate on Finance、Games、にじげん
 - ⚡ Fun fact: sports...
