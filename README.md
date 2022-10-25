@@ -14,6 +14,7 @@ Content Me 📱
 - 👯 I’m looking to collaborate on Finance、Games、にじげん
 - ⚡ Fun fact: sports...
 - WeChat Subscription：linghu242
+- https://api.github.com/users/sftfjugg
 
 <hr>
 <a href="https://github.com/sftfjugg/github-readme-stats" title="Go to Source">
