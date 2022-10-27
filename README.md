@@ -9,7 +9,7 @@ Content Me 📱
 
 **sftfjugg/sftfjugg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img align="right" alt="GIF" src="http://dl.oopspy.com/images/blog/github.gif" width="450" height="295" />
+<img align="right" alt="GIF" src="http://dl.oopspy.com/images/blog/github1.gif" width="450" height="295" />
 
 ### I'm Linghu
 - 🔭 I’m currently working on LINUX/Windows、Middlewares、Database(MySQL & PostgreSQL)、Cloud Native、BigData
