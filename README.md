@@ -1,4 +1,5 @@
 ### Hi there 👋  
+I'm Rongxin Linghu 😉, a go programmer 👨🏻‍💻 and app ops from China 🇨🇳. Beside's programming, I like delicious food 🥩 and doing sports 🏃.
 
 Content Me 📱
 
