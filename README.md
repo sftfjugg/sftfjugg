@@ -16,8 +16,6 @@ Content Me 📱
 - 🌱 I’m currently learning Cilium
 - 👯 I’m looking to collaborate on Finance、Games、にじげん
 - ⚡ Fun fact: sports...
-- WeChat Subscription：linghu242
-- https://api.github.com/users/sftfjugg
 
 ### 🧰 语言工具
 
