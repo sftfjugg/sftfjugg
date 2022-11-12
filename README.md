@@ -51,7 +51,7 @@ CoreDNS+Openresty+Keepalived
 
 关系数据：Mysql、PostgreSQL
 
-KV数据：Redis
+KV数据：Redis、Etcd
 
 列数据：Hbase
 
