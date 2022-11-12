@@ -13,7 +13,7 @@ Content Me 📱
 
 ### I'm Linghu
 
-🌱 I’m currently learning Cilium
+🌱 I’m currently learning qt、cilium
 
 👯 I’m looking to collaborate on Finance、Games、にじげん
 
