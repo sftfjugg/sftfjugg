@@ -12,9 +12,49 @@ Content Me 📱
 <img align="right" alt="GIF" src="http://dl.oopspy.com/images/blog/github.gif" width="450" height="295" />
 
 ### I'm Linghu
-- 🔭 I’m currently working on LINUX/Windows、Middlewares、Database(MySQL & PostgreSQL)、Cloud Native、BigData
+
+- 🔭 个人技术栈：
+
+1、熟悉Linux自动化管理:
+
+Shell/Python + Ansible + XXL-Job
+
+2、熟悉的CICD架构：
+
+Gitlab+Jenkins && ( Mesos+Marathon+Docker ) || ( Helm+K8S + Containerd )
+
+3、熟悉的网关架构：
+
+CoreDNS+Openresty+Keepalived
+
+4、熟悉的数据库：
+
+关系数据：Mysql、PostgreSQL
+
+KV数据：Redis
+
+列数据：Hbase
+
+文档数据：MongoDB、Elasticsearch
+
+时序数据：VictoriaMetrics
+
+图数据：Neo4j
+
+5、熟悉的分布存储：
+
+CEPH
+
+6、应用运维/运维开发:
+
+熟悉Java + Spring Boot + Spring Cloud技术栈运维
+
+熟悉Go+ Gin工具平台开发
+
 - 🌱 I’m currently learning Cilium
+
 - 👯 I’m looking to collaborate on Finance、Games、にじげん
+
 - ⚡ Fun fact: sports...
 
 ### 🧰 语言工具
