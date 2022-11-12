@@ -21,7 +21,7 @@ Shell/Python + Ansible + XXL-Job
 
 2、熟悉的CICD架构
 
-Gitlab+Jenkins/Slave && ( Mesos+Marathon+Docker ) || ( Helm+K8S + Containerd )
+Gitlab+Jenkins/Pipeline && ( Mesos+Marathon+Docker ) || ( Helm+K8S + Containerd )
 
 3、熟悉的网关架构
 
