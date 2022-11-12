@@ -69,4 +69,6 @@ CEPH
 
 熟悉Java + Spring Boot + Spring Cloud技术栈运维
 
+熟悉CDH、CDP大数据技术栈运维
+
 熟悉Go+ Gin工具平台开发
