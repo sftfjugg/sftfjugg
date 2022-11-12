@@ -45,7 +45,7 @@ KV数据：Redis
 
 CEPH
 
-6、应用运维/运维开发
+6、应用运维/开发
 
 熟悉Java + Spring Boot + Spring Cloud技术栈运维
 
