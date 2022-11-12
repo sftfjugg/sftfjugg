@@ -15,19 +15,19 @@ Content Me 📱
 
 - 🔭 个人技术栈：
 
-1、熟悉Linux自动化管理:
+1、熟悉Linux自动化管理
 
 Shell/Python + Ansible + XXL-Job
 
-2、熟悉的CICD架构：
+2、熟悉的CICD架构
 
 Gitlab+Jenkins && ( Mesos+Marathon+Docker ) || ( Helm+K8S + Containerd )
 
-3、熟悉的网关架构：
+3、熟悉的网关架构
 
 CoreDNS+Openresty+Keepalived
 
-4、熟悉的数据库：
+4、熟悉的数据库
 
 关系数据：Mysql、PostgreSQL
 
@@ -41,11 +41,11 @@ KV数据：Redis
 
 图数据：Neo4j
 
-5、熟悉的分布存储：
+5、熟悉的分布存储
 
 CEPH
 
-6、应用运维/运维开发:
+6、应用运维/运维开发
 
 熟悉Java + Spring Boot + Spring Cloud技术栈运维
 
