@@ -13,7 +13,7 @@ Content Me 📱
 
 ### I'm Linghu
 
-- 🔭 个人技术栈：
+🔭 个人技术栈：
 
 1、熟悉Linux自动化管理
 
@@ -51,11 +51,11 @@ CEPH
 
 熟悉Go+ Gin工具平台开发
 
-- 🌱 I’m currently learning Cilium
+🌱 I’m currently learning Cilium
 
-- 👯 I’m looking to collaborate on Finance、Games、にじげん
+👯 I’m looking to collaborate on Finance、Games、にじげん
 
-- ⚡ Fun fact: sports...
+⚡ Fun fact: sports...
 
 ### 🧰 语言工具
 
