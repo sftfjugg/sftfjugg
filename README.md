@@ -67,10 +67,10 @@ CEPH
 
 6、应用运维/开发
 
-熟悉Java + Spring Boot + Spring Cloud技术栈运维
+熟悉 Java + Spring Boot + Spring Cloud + K8S 微服务技术栈运维
 
-熟悉Hadoop、CDH/CDP大数据技术栈运维
+熟悉 CDH/CDP、Flink与StarRocks 大数据技术栈运维
 
-熟悉Go / Gin、Vue3 / Element Plus 工具平台开发
+熟悉 Go / Gin、Vue3 / Element Plus 工具平台开发
 http://jenkins.oopspy.com/
  
