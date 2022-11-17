@@ -59,7 +59,7 @@ KV数据：Redis、Etcd
 
 时序数据：VictoriaMetrics
 
-图数据：Neo4j
+图数据：Nebula
 
 5、熟悉的分布存储
 
