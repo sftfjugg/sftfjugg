@@ -49,7 +49,7 @@ CoreDNS+Openresty+Keepalived (横向无限扩展)
 
 4、熟悉的数据库
 
-关系数据：Mysql、PostgreSQL
+关系数据：Mysql（应用多活数据库多活架构）、PostgreSQL
 
 KV数据：Redis、Etcd
 
