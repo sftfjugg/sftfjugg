@@ -45,7 +45,7 @@ Gitlab+Jenkins/Pipeline && ( Mesos+Marathon+Docker ) || ( Helm+K8S + Containerd 
 
 3、熟悉的网关架构
 
-CoreDNS+Openresty+Keepalived
+CoreDNS+Openresty+Keepalived (横向无限扩展)
 
 4、熟悉的数据库
 
