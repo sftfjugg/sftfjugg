@@ -13,11 +13,11 @@ Content Me 📱
 
 ### I'm Linghu
 
-✨ Freelance: C development, ARM development, electrician, system operation and maintenance, application business operation and maintenance, big data operation and maintenance, data development, MySQL DBA, operation and maintenance development
+✨ One for freelance
  
-🌱 I’m currently learning qt、cilium
+🌱 Currently doing cloud native big data
 
-👯 I’m looking to collaborate on Finance、Games、にじげん
+👯 Engaged in Internet finance or Internet games
 
 ⚡ Fun fact: Sports
 
