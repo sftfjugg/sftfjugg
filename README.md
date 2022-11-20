@@ -13,11 +13,13 @@ Content Me 📱
 
 ### I'm Linghu
 
+✨ Freelance: C development, ARM development, electrician, system operation and maintenance, application business operation and maintenance, big data operation and maintenance, data development, MySQL DBA, operation and maintenance development
+ 
 🌱 I’m currently learning qt、cilium
 
 👯 I’m looking to collaborate on Finance、Games、にじげん
 
-⚡ Fun fact: sports...
+⚡ Fun fact: Sports
 
 ### 🧰 语言工具
 
@@ -37,7 +39,7 @@ Content Me 📱
 
 1、熟悉Linux自动化管理
 
-Shell/Python + Ansible + XXL-Job
+Shell/Python + Ansible/playbook + XXL-Job
 
 2、熟悉的CICD架构
 
@@ -49,7 +51,7 @@ CoreDNS+Openresty+Keepalived (横向无限扩展)
 
 4、熟悉的数据库
 
-关系数据：Mysql（应用多活数据库多活架构）、PostgreSQL
+关系数据：Mysql/多活、PostgreSQL
 
 KV数据：Redis、Etcd
 
