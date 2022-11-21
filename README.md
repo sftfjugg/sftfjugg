@@ -39,7 +39,7 @@ Content Me 📱
 
 1、熟悉Linux自动化管理
 
-Shell/Python + Ansible/playbook + XXL-Job
+Shell/Python/Go(命令/工具开发) + Ansible/playbook(部署/自动化操作开发) + XXL-Job(任务调度与管理)
 
 2、熟悉的CICD架构
 
