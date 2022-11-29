@@ -65,7 +65,7 @@ KV数据：Redis、Etcd
 
 5、熟悉的分布存储
 
-CEPH
+CEPH、Minio
 
 6、应用运维/开发
 
