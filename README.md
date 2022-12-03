@@ -59,7 +59,7 @@ KV数据：Redis、Etcd
 
 文档数据：MongoDB、Elasticsearch
 
-时序数据：VictoriaMetrics
+时序数据：VictoriaMetrics（我最喜欢的时序数据库，没有之一）
 
 图数据：Nebula
 
