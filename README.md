@@ -43,7 +43,7 @@ Shell/Python/Go(命令/工具开发) + Ansible/playbook(部署/自动化操作�
 
 2、熟悉的CICD架构
 
-Gitlab+Jenkins(一个干运维杂活的好帮手)/Pipeline && ( Mesos+Marathon+Docker ) || ( Helm+K8S + Containerd )
+Gitlab+Jenkins(一个干运维杂活的好帮手)/Pipeline && ( Docker化部署+资源调度：Mesos + Marathon + Docker ) || ( K8S化部署+资源调度：Helm + K8S + Containerd )
 
 3、熟悉的网关架构
 
