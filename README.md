@@ -49,6 +49,8 @@ Gitlab+Jenkins(一个干运维杂活的好帮手)/Pipeline && ( Mesos+Marathon+D
 
 CoreDNS+Openresty+Keepalived (横向无限扩展)
 
+开发与维护：CoreDNS、Openresty
+
 4、熟悉的数据库
 
 关系数据：Mysql/多活、PostgreSQL
