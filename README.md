@@ -47,7 +47,7 @@ Gitlab+Jenkins(一个干运维杂活的好帮手)/Pipeline && ( Docker化部署+
 
 3、熟悉的网关架构
 
-CoreDNS+Openresty+Keepalived (横向无限扩展)
+CoreDNS + Openresty/ApiSIX + Keepalived (横向无限扩展) 
 
 开发与维护：CoreDNS、Openresty
 
