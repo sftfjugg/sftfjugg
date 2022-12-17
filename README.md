@@ -73,6 +73,8 @@ CEPH、Minio
 
 熟悉 Java + Spring Boot + Spring Cloud + K8S 微服务技术栈运维
 
+开发与维护：K8S
+
 熟悉 CDH/CDP、Flink与StarRocks 大数据技术栈运维
 
 熟悉 Go / Gin、Vue3 / Element Plus 工具平台开发
