@@ -49,7 +49,7 @@ Gitlab+Jenkins(一个干运维杂活的好帮手)/Pipeline && ( Docker化部署+
 
 CoreDNS + Openresty/ApiSIX + Keepalived (横向无限扩展) 
 
-开发与维护：CoreDNS、Openresty
+开发与维护：CoreDNS、ApiSIX
 
 4、熟悉的数据库
 
