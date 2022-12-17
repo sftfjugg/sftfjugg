@@ -76,5 +76,4 @@ CEPH、Minio
 熟悉 CDH/CDP、Flink与StarRocks 大数据技术栈运维
 
 熟悉 Go / Gin、Vue3 / Element Plus 工具平台开发
-http://jenkins.oopspy.com/
  
