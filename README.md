@@ -34,48 +34,6 @@ Content Me 📱
 
 [![](https://activity-graph.herokuapp.com/graph?username=sftfjugg&theme=github)](https://activity-graph.herokuapp.com/graph?username=sftfjugg&theme=github)
 </div>
-
-🔭 个人技术栈：
-
-1、熟悉Linux自动化管理
-
-Shell/Python/Go(命令/工具开发) + Ansible/playbook(部署/自动化操作开发) + XXL-Job(任务调度与管理)
-
-2、熟悉的CICD架构
-
-Gitlab+Jenkins(一个干运维杂活的好帮手)/Pipeline && ( Docker化部署+资源调度：Mesos + Marathon + Docker ) || ( K8S化部署+资源调度：Helm + K8S + Containerd )
-
-3、熟悉的网关架构
-
-CoreDNS + Openresty/ApiSIX + Keepalived (横向无限扩展) 
-
-开发与维护：CoreDNS、ApiSIX
-
-4、熟悉的数据库
-
-关系数据：Mysql/多活、PostgreSQL
-
-KV数据：Redis、Etcd
-
-列数据：Hbase
-
-文档数据：MongoDB、Elasticsearch
-
-时序数据：VictoriaMetrics（我最喜欢的时序数据库，没有之一）
-
-图数据：Nebula
-
-5、熟悉的分布存储
-
-CEPH、Minio
-
-6、应用运维/开发
-
-熟悉 Java + Spring Boot + Spring Cloud + K8S 微服务技术栈运维
-
-开发与维护：K8S
-
-熟悉 CDH/CDP、Flink与StarRocks 大数据技术栈运维
-
-熟悉 Go / Gin、Vue3 / Element Plus 工具平台开发
+ 
+ 
  
