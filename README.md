@@ -32,14 +32,12 @@ Content Me 📱
 
 [![profile](https://github-profile-trophy.vercel.app/?username=sftfjugg&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=sftfjugg&theme=algolia&column=8)
 
-[![](https://activity-graph.herokuapp.com/graph?username=sftfjugg&theme=github)](https://activity-graph.herokuapp.com/graph?username=sftfjugg&theme=github)
-</div>
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sftfjugg&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sftfjugg&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sftfjugg&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sftfjugg&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sftfjugg&theme=github)
  
- 
+ [![](https://activity-graph.herokuapp.com/graph?username=sftfjugg&theme=github)](https://activity-graph.herokuapp.com/graph?username=sftfjugg&theme=github)
+</div>
  
